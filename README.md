@@ -27,7 +27,7 @@ Este projeto implementa e analisa estruturas de dados fundamentais, incluindo á
 ## Dependências Necessárias
 
 - JDK 8 ou superior.
-- Ambiente de desenvolvimento compatível, como **JGRASP**, Eclipse ou IntelliJ IDEA (opcional).
+- Ambiente de desenvolvimento compatível, como **JGRASP**.
 
 ---
 
